@@ -3,7 +3,7 @@
 The plan for this repo is to host solutions to fizzbuzz in as many languages as possible.
 
 ## Number of languages supported so far:
-### 2
+### 3
 
 ## Contribution
 If you wish to contribute to this project I ask that you follow some simple guidelines
